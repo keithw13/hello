@@ -1,3 +1,11 @@
+/**
+*Author: Keith Whitehead
+*Date: 2019/08/29
+*
+*This is a simple hello world
+*
+*/
+
 #include <stdlib.h>
 #include <stdio.h>
 
